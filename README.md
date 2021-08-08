@@ -4,7 +4,7 @@
 
 ## 💻 Portfolio & Blog
 
-In addtion to my GitHub, I also maintain a portfolio website + blog. I use my blog to show how I created my personal projects, and why they are needed/useful. You can find my website and blog at [zclaypack.com](https://zclaypack.com/)
+In addtion to my GitHub, I also maintain a portfolio website + blog. I use my blog to show how I created my personal projects, and why they are needed/useful.
 
 ## 🔧 Tools & Technologies
 
