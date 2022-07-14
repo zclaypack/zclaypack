@@ -2,10 +2,6 @@
 
  My GitHub profile consists of personal projects, school projects, and open source contributions. I enjoy working with a variety of technologies however, I have a keen intrest in architecting and deploying systems in the cloud. I am currently based out of Vancouver, British Columbia. 
 
-## 💻 Portfolio & Blog
-
-In addtion to my GitHub, I also maintain a portfolio website + blog. I use my blog to show how I created my personal projects, and why they are needed/useful.
-
 ## 🔧 Tools & Technologies
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=5a00ff)
